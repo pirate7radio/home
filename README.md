@@ -1,10 +1,7 @@
 ## Welcome to pirate radio!!
 
 You can use the [editor on GitHub](https://github.com/pirate7radio/pirateradio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-![](./_image/2128375399.jpeg)
 #### 《金钱不能买什么》
 翻了一本书，来自因“公正”公开课而变得著名的哈佛大学桑德尔教授。
 整本书如标题所示，一直在讨论到底哪些东西可以被标上价格，顺手解答了下述问题。
@@ -17,7 +14,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 拿排队这一项来说，最近十几年来，市场的触角伸到了各个角落。
 - 环球影城游乐场推出了不用排队的Express Pass，只要花钱就可以直接乘坐付过费的项目。
 - 迪斯尼除了有类似的Fast Pass外还有导览服务（价格数千到一万），不但不用排队，工作人员全程陪同且预留观看演出最佳位置。
-![](./_image/screenshot-2.png)
 - 机场开通了面向两舱的贵宾通道；在美国拥堵时只要缴费就可以开上快速通道避开塞车，即使这是为环保提供给多人共用车的。
 - 美国国会听证会名额也被专门的排队公司经常垄断，一家叫“替人排队网”（LineStanding.com）的公司把自己称作“国会排队业界中的领头羊”。
 ![](./_image/screenshot.png)
