@@ -9,7 +9,8 @@ tags:
     - 生活
 ---
 
-![](https://pirate7radio.github.io/home/master/_posts/_image/2128375399.jpeg)
+![](https://github.com/pirate7radio/home/raw/master/_posts/_image/2128375399.jpeg)
+https://github.com/pirate7radio/home/raw/master/_posts/_image/2128375399.jpeg
 
 #### 《金钱不能买什么》
 
