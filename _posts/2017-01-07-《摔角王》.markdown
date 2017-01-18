@@ -10,9 +10,13 @@ tags:
 ---
 
 > Have you ever seen a one-legged man trying to dance his way free 
+>
 > 你可曾见过一个独腿的男人 仍想翩翩起舞
+>
 > If you've ever seen a one-legged man then you've seen me 
+>
 > 如果你见过了那个男人 那就是见过了我
+>
 > -- from [《The Wrestler》- Bruce Springsteen](http://music.163.com/#/song?id=16657771)
 
 ## 电影《The Wrestler》
@@ -62,7 +66,9 @@ tags:
 
 ## 配乐
 本片有很大一部分功劳得归功于配乐，穿插的大量80年代经典摇滚乐，歌词都极度契合剧情。片头的
-《Balls To The Wall》
-
-<embed src="//music.163.com/style/swf/widget.swf?sid=5042307&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all"/>
+- [《Bang your head》- Quiet Riot](http://music.163.com/#/song?id=5042297)
+    - 片头Ram辉煌时响起的配乐
+- [《Balls To The Wall》- Accept](http://music.163.com/#/song?id=5042307)
+    - 难以忍受生活窘境，决定重返赛场时
+- [《The Wrestler》- Bruce Springsteen](http://music.163.com/#/song?id=16657771)
 
