@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "《摔角王》"
-subtitle:   " \"balls to the wall\""
+subtitle:   " \"it's better to burn out, than to fade away\""
 date:       2017-01-18 22:22:22
 author:     "pirate7radio"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/wrestler.jpg"
 tags:
     - Movie
 ---
@@ -27,9 +27,9 @@ tags:
 
 ## 什么是摔角？
 
-摔角（pro-wrestling）本质上是带有表演性质的搏击比赛，包括拳打、脚踢、肘击、抛摔等几乎所有徒手格斗技法，比赛场地允许延伸到看台上甚至休息室内。目前包括日摔，美摔，墨摔三大类别。
+摔角（pro-wrestling）本质上是带有表演性质的搏击比赛，包括拳打、脚踢、肘击、抛摔等几乎所有徒手格斗技法，很多比赛会使用各种道具包括但不仅限于椅子桌子梯子带刺铁网图钉订书机，这时往往会打得鲜血淋漓，比赛场地允许延伸到看台上甚至休息室内。
 
-表面上看，摔角选手几乎都是清一色的大块头（例如岩石强森就曾是摔角手），所有比赛基本是按照设计好的剧本表演，然而实际情况是有些比赛相当血腥。在网上搜索 WWE+血腥 关键字，会出来一大堆比赛视频，使用长灯管、订书机、带刺铁网以及把人往撒满图钉的地上推都不算罕见。
+摔角选手几乎都是清一色的大块头（例如岩石强森就曾是摔角手），所有比赛基本是按照设计好的剧本表演，然而实际情况是有些比赛相当血腥。在网上搜索 WWE+血腥 关键字，会出来一大堆比赛视频，把人举起来往撒满图钉的地上摔并不算罕见。
 
 所以，摔角运动算是假打真摔。摔角选手的保险费率比普通人要高得多，也能从侧面印证这项运动的危险性。
 
@@ -51,6 +51,10 @@ tags:
 
 导演并没有为了增加戏剧冲突而加入狗血情节，拍摄风格像是描白，晃动的手持摄像机，无声的长镜头，都最大程度的让观众去接近剧中人真实的生活。Ram人到中年晚期后的窘境被展露无遗，不得不忍受超市经理脾气时的低声下气，面对毫无同情心的超市顾客不愿承认自己身份时的窘迫，与家人关系修复时的泪水，错过和女儿约会时的悔恨，退役后的孤独，想找人倾诉时脱衣舞女的冷漠，都显得极其真实可信。
 
+杨德昌的《一一》里有这样一句台词，“自从电影发明以后，人类的生命就至少延长了三倍”。好的电影可以给观众提供一个最大程度窥视他人生活的渠道，给自己的人生带来反思和启发。从这个意义上来说，越是真实可信的电影就越有参考价值。看完后会产生何种感悟肯定因人而异，《摔角王》这片至少可以让人产生“就算是再牛逼的摔角手也要做好职业生涯规划，按时缴纳社保”等李开复式鸡汤经验。
+
+对我来说，片尾的那幕其实处理得意味深长，这是对it's better to burn out than to fade away这句歌词的最好诠释之一。
+
 ## 配乐
 本片的配乐算得上是出色，穿插的大量80年代经典摇滚乐，歌词都极度契合剧情。片头的 [《Bang your head》- Quiet Riot](http://music.163.com/#/song?id=5042297)，电吉他伴随着对Ram辉煌时代的追忆。
 
@@ -59,75 +63,75 @@ tags:
 而最经典的是片尾那首来自摇滚诗人Bruce Springsteen为电影量身打造的同名主题曲 [《The Wrestler》](http://music.163.com/#/song?id=16657771)，歌词富有诗意且充满忧伤，极其打动人心。
 
 [《The Wrestler》](http://music.163.com/#/song?id=16657771)
-Two three four 
-二 三 四
 
-Have you ever seen a one trick pony in the field so happy and free 
-你可曾见过一只独角兽在田野里开怀奔跑
+> Two three four 
+> 二 三 四
 
-If you've ever seen a one trick pony then you've seen me 
-如果你看到了它 那就是看到了我
+> Have you ever seen a one trick pony in the field so happy and free 
+> 你可曾见过一只独角兽在田野里开怀奔跑
 
-Have you ever seen a one-legged dog making his way down the street 
-你可曾见过一只跛脚的狗沿着街一直走
+> If you've ever seen a one trick pony then you've seen me 
+> 如果你看到了它 那就是看到了我
 
-If you've ever seen a one-legged dog then you've seen me 
-如果你看到了它 那就是看到了我
+> Have you ever seen a one-legged dog making his way down the street 
+> 你可曾见过一只跛脚的狗沿着街一直走
 
-Then you've seen me I come and stand at every door 
-那就是我啊 在每个门前停留
+> If you've ever seen a one-legged dog then you've seen me 
+> 如果你看到了它 那就是看到了我
 
-Then you've seen me I always leave with less than I had before 
-那就是我啊 失去的越来越多
+> Then you've seen me I come and stand at every door 
+> 那就是我啊 在每个门前停留
 
-Then you've seen me bet I can make you smile when the blood it hits the floor 
-那就是我啊 当血流向地板我只想让你微笑
+> Then you've seen me I always leave with less than I had before 
+> 那就是我啊 失去的越来越多
 
-Tell me friend can you ask for anything more 
-告诉我 朋友 你还要求更多吗
+> Then you've seen me bet I can make you smile when the blood it hits the floor 
+> 那就是我啊 当血流向地板我只想让你微笑
 
-Tell me can you ask for anything more 
-告诉我你还要求更多吗
+> Tell me friend can you ask for anything more 
+> 告诉我 朋友 你还要求更多吗
 
-Have you ever seen a scarecrow filled with nothing but dust and wheat 
-你可曾见过一个稻草人身体里裹满了灰尘烂布
+> Tell me can you ask for anything more 
+> 告诉我你还要求更多吗
 
-If you've ever seen that scarecrow then you've seen me
-如果你看到了它 那就是看到了我
+> Have you ever seen a scarecrow filled with nothing but dust and wheat 
+> 你可曾见过一个稻草人身体里裹满了灰尘烂布
 
-Have you ever seen a one-armed man punching at nothing but the breeze 
-你可曾见过一个独臂人对着空气挥舞拳头
+> If you've ever seen that scarecrow then you've seen me
+> 如果你看到了它 那就是看到了我
 
-If you've ever seen a one-armed man then you've seen me 
-如果你看到了他 那就是看到了我
+> Have you ever seen a one-armed man punching at nothing but the breeze 
+> 你可曾见过一个独臂人对着空气挥舞拳头
 
-Then you've seen me I come and stand at every door 
-那就是我啊 我在每个门前停留
+> If you've ever seen a one-armed man then you've seen me 
+> 如果你看到了他 那就是看到了我
 
-Then you've seen me I always leave with less than I had before 
-那就是我啊 失去的越来越多
+> Then you've seen me I come and stand at every door 
+> 那就是我啊 我在每个门前停留
 
-Then you've seen me bet I can make you smile when the blood it hits the floor 
-那就是我啊 当血流向地板我只想让你微笑
+> Then you've seen me I always leave with less than I had before 
+> 那就是我啊 失去的越来越多
 
-Tell me friend can you ask for anything more 
-告诉我 朋友 你还要求更多吗
+> Then you've seen me bet I can make you smile when the blood it hits the floor 
+> 那就是我啊 当血流向地板我只想让你微笑
 
-Tell me can you ask for anything more 
-告诉我你还要求更多吗
+> Tell me friend can you ask for anything more 
+> 告诉我 朋友 你还要求更多吗
 
-These things that have comforted me I drive away 
-我把那些好事都抛在脑后
+> Tell me can you ask for anything more 
+> 告诉我你还要求更多吗
 
-This place that is my home I cannot stay 
-我不能回到这个我曾经的家
+> These things that have comforted me I drive away 
+> 我把那些好事都抛在脑后
 
-My only faith's in the broken bones and bruises I display
-我唯一的信仰就是那满身的伤痛
+> This place that is my home I cannot stay 
+> 我不能回到这个我曾经的家
 
-Have you ever seen a one-legged man trying to dance his way free 
-你可曾见过一个独腿的人仍想以他的方式起舞
+> My only faith's in the broken bones and bruises I display
+> 我唯一的信仰就是那满身的伤痛
 
-If you've ever seen a one-legged man then you've seen me 
-如果你看到了他 那就是看到了我
+> Have you ever seen a one-legged man trying to dance his way free 
+> 你可曾见过一个独腿的人仍想以他的方式起舞
 
+> If you've ever seen a one-legged man then you've seen me 
+> 如果你看到了他 那就是看到了我
